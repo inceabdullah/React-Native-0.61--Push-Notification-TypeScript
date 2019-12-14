@@ -1,3 +1,9 @@
+## ScreenShots
+
+![](ss/push1.png)
+
+i used this repo in my [Haber-Tellali-3th-Wave-News-Service](https://github.com/inceabdullah/Haber-Tellali-3th-Wave-News-Service/tree/master/react-native/rfn-typescript) as the base.
+
 ### installation
 
 - This is belonging to [invertase](https://github.com/invertase/)
